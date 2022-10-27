@@ -1,0 +1,18 @@
+.pro-image {
+  width: 150px;
+  height: 150px;
+}
+.pro-content {
+  display: flex;
+  justify-content: space-between;
+}
+.duration {
+  display: flex;
+  align-items: center;
+}
+li {
+  border-radius: 5px;
+  margin: 10px;
+  background-color: wheat;
+  color: black;
+}
